@@ -1,0 +1,66 @@
+Por qué Go es el lenguaje más deseado por los programadores en el 2020
+
+March 13, 2020
+
+Osmandi Gómez
+Data Analytics, Platzi
+https://platzi.com/cursos/programacion-golang
+@osmandi
+
+* History
+
+- Go / Golang
+- Autores: Robert Griesemer, Rob Pike, and Ken Thompson
+- Anunciado noviembre 2009, primera versión marzo 2012
+
+.image gopher-background.png
+
+* History - Part 2
+
+.iframe https://www.youtube.com/embed/V4t-ymImW6c 600 1000
+
+* Hello World
+
+- Hello world / 你好，世界
+
+.play -edit hello.go
+
+.image gopher-job.png 300 300
+
+* Syntax &  Clean code
+
+- No tiene clases, pero su equivalente es struct.
+- Sintaxis como la de Python, ideal para inicar en programación
+- Obliga a implementar buenas prácticas
+
+.play -edit syntax.go
+
+* Syntax & Clean code - Part 2
+
+- Auto importado y ordenación de código al guardar
+.code clean_code.go
+
+.image gopher-os.png 300 300
+
+* Goroutines
+
+.play -edit  goroutines.go
+
+* Frameworks Web
+
+.link https://gohugo.io Hugo
+.link https://echo.labstack.com  Echo
+.link https://beego.me Beego
+
+.image gopherina_1.png 300 300
+
+* Tools
+
+- go get
+- defer
+- go Tour
+- go present
+.link https://github.com/egonelbre/gophers icons_gopher
+.link https://gopherize.me gopherize.me
+
+.image gopherina_2.png 300 300
